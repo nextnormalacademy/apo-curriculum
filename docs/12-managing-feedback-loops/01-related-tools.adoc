@@ -1,0 +1,29 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+- link:https://manual.advancedproductowner.com/value-proposition/[Value Propostion]
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+- link:https://manual.advancedproductowner.com/story-map/[Story Map]
+- link:https://manual.advancedproductowner.com/product-increment/[Product Increment]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+- link:https://manual.advancedproductowner.com/value-proposition/[Value Propostion]
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+- link:https://manual.advancedproductowner.com/story-map/[Story Map]
+- link:https://manual.advancedproductowner.com/product-increment/[Product Increment]
+
+// end::EN[]

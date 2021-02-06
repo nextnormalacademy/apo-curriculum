@@ -1,0 +1,19 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+- link:https://manual.advancedproductowner.com/delivery-kanban/[Delivery Kanban]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+- link:https://manual.advancedproductowner.com/delivery-kanban/[Delivery Kanban]
+
+// end::EN[]

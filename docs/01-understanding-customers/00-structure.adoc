@@ -1,0 +1,18 @@
+// header file for curriculum section
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+== Understanding Customers
+// end::DE[]
+
+// tag::EN[]
+== Understanding Customers
+// end::EN[]
+
+include::01-related-tools.adoc[{include_configuration}]
+
+include::02-outcome.adoc[{include_configuration}]
+
+include::03-learning-objectives.adoc[{include_configuration}]

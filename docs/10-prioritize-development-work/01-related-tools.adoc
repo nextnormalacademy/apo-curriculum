@@ -1,0 +1,21 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/story-map/[Story Map]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+- Real Options
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/story-map/[Story Map]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+- Real Options
+
+// end::EN[]

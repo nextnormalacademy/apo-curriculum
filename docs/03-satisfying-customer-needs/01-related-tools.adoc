@@ -1,0 +1,21 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/empathy-map/[Empathy Map]
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/empathy-map/[Empathy Map]
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+
+// end::EN[]

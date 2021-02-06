@@ -1,0 +1,19 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/feedback-loops/[Feedback Loops]
+- Experiments and Tests
+
+// end::DE[]
+
+// tag::EN[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/feedback-loops/[Feedback Loops]
+- Experiments and Tests
+
+// end::EN[]

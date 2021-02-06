@@ -1,0 +1,18 @@
+// tag::DE[]
+=== Goal of Advanced Product Owner Curriculums
+
+The Advanced Product Owner curriculum provides an open-source, framework-neutral training scheme with a corresponding certification.
+
+The main goal of the Advanced Product Owner curriculum is to convey the interrelationships and interactions between methods and tools of agile product management.
+Participants should be enabled to assess the suitability of these tools and methods for their respective context and to apply them successfully.
+// end::DE[]
+
+// tag::EN[]
+=== Goal of Advanced Product Owner Curriculums
+
+The Advanced Product Owner curriculum provides an open-source, framework-neutral training scheme with a corresponding certification.
+
+The main goal of the Advanced Product Owner curriculum is to convey the interrelationships and interactions between methods and tools of agile product management.
+Participants should be enabled to assess the suitability of these tools and methods for their respective context and to apply them successfully.
+// end::EN[]
+

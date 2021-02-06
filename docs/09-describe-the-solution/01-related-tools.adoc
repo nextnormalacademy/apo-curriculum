@@ -1,0 +1,23 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+- link:https://manual.advancedproductowner.com/persona/[Persona]
+- link:https://manual.advancedproductowner.com/delivery-kanban/[Delivery Kanban]
+- link:https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+- link:https://manual.advancedproductowner.com/persona/[Persona]
+- link:https://manual.advancedproductowner.com/delivery-kanban/[Delivery Kanban]
+- link:https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+
+// end::EN[]

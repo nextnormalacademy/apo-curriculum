@@ -1,0 +1,17 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Outcome
+
+- https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+
+// end::DE[]
+
+// tag::EN[]
+=== Outcome
+
+- https://manual.advancedproductowner.com/product-backlog/[Product Backlog]
+
+// end::EN[]

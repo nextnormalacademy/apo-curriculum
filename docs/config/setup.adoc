@@ -21,15 +21,15 @@ endif::withRemarks[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{remarks};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: APO
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
+:curriculum-name: Advanced Product Owner
 :curriculum-header-title: nextnormal.academy Curriculum: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
+:curriculum-name: Advanced Product Owner
 :curriculum-header-title: nextnormal.academy curriculum: {curriculum-short}
 endif::[]
 

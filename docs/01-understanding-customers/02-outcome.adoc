@@ -1,0 +1,19 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/persona/[Persona]
+- link:https://manual.advancedproductowner.com/empathy-map/[Empathy Map]
+
+// end::DE[]
+
+// tag::EN[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/persona/[Persona]
+- link:https://manual.advancedproductowner.com/empathy-map/[Empathy Map]
+
+// end::EN[]

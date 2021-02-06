@@ -1,0 +1,23 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/stakeholder-mapping/[Stakeholder Map]
+- link:https://manual.advancedproductowner.com/value-proposition/[Value Proposition]
+- link:https://manual.advancedproductowner.com/roadmap/[Roadmap]
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/stakeholder-mapping/[Stakeholder Map]
+- link:https://manual.advancedproductowner.com/value-proposition/[Value Proposition]
+- link:https://manual.advancedproductowner.com/roadmap/[Roadmap]
+- link:https://manual.advancedproductowner.com/impact-map/[Impact Map]
+
+// end::EN[]

@@ -1,0 +1,32 @@
+// tag::DE[]
+=== Preconditions
+
+There are no formal prerequisites that participants need to meet in order to attend an Advanced Product Owner training.
+
+It is recommended to have at least some basic experience in one of the following areas:
+
+- Product management
+- Project management
+- User experience and usability engineering
+- Bsiness analysis
+- Requirements engineering and management
+- Product development
+
+// end::DE[]
+
+// tag::EN[]
+=== Preconditions
+
+There are no formal prerequisites that participants need to meet in order to attend an Advanced Product Owner training.
+
+It is recommended to have at least some basic experience in one of the following areas:
+
+- Product management
+- Project management
+- User experience and usability engineering
+- Bsiness analysis
+- Requirements engineering and management
+- Product development
+
+// end::EN[]
+

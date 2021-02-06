@@ -1,0 +1,28 @@
+// tag::DE[]
+=== Out of Scope
+
+This non-exhaustive out-of-scope list includes some topics that are related, but not part of the curriculum.
+
+- Frameworks like Scrum, LeSS, SAFe
+- Business strategy and portfolio management
+- Business analysis, requirements engineering and requirements management
+- Usability engineering and user experience design
+- Development and engineering practices
+- Deep dives into single methodologies
+
+// end::DE[]
+
+// tag::EN[]
+=== Out of Scope
+
+This non-exhaustive out-of-scope list includes some topics that are related, but not part of the curriculum.
+
+- Frameworks like Scrum, LeSS, SAFe
+- Business strategy and portfolio management
+- Business analysis, requirements engineering and requirements management
+- Usability engineering and user experience design
+- Development and engineering practices
+- Deep dives into single methodologies
+
+// end::EN[]
+

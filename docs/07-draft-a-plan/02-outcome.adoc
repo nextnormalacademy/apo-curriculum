@@ -1,0 +1,17 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/roadmap/[Roadmap]
+
+// end::DE[]
+
+// tag::EN[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/roadmap/[Roadmap]
+
+// end::EN[]

@@ -1,0 +1,17 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+
+// end::DE[]
+
+// tag::EN[]
+=== Outcome
+
+- link:https://manual.advancedproductowner.com/business-model/[Business Model]
+
+// end::EN[]

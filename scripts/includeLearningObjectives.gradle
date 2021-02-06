@@ -24,8 +24,8 @@ task includeLearningObjectives(
     }
 
     doLast {
-        def contentDE = createLearningObjectivesContent("DE", ~/\[\[(LZ-\d*-\d*)\]\]\s*==== (LZ (\d*)-(\d*).*)/, "Verzeichnis der Lernziele")
-        def contentEN = createLearningObjectivesContent("EN", ~/\[\[(LG-\d*-\d*)\]\]\s*==== (LG (\d*)-(\d*).*)/, "List of Learning Goals")
+        def contentDE = createLearningObjectivesContent("DE", ~/-\s\[\[(LZ\d*-\d*-\d*)\]\]\s*(.*)/, "Verzeichnis der Lernziele")
+        def contentEN = createLearningObjectivesContent("EN", ~/-\s\[\[(LO\d*-\d*-\d*)\]\]\s*(.*)/, "List of Learning Objectives")
 
         writeLearningObjectives(contentDE, contentEN)
     }
@@ -49,10 +49,10 @@ task includeLearningObjectives(
                 while(matcher) {
                     def id = matcher.group(1)
                     def title = matcher.group(2)
-                    def chapter = matcher.group(3)
-                    def chapterIndex = matcher.group(4)
+//                    def chapter = matcher.group(3)
+//                    def chapterIndex = matcher.group(4)
                     learningObjectives.add(
-                        new LearningObjective(id, title, chapter, chapterIndex))
+                        new LearningObjective(id, title, '0', '1'))
                 }
             }
         }

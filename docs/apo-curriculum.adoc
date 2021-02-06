@@ -1,0 +1,88 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Curriculumpass:q[<br><br>]{curriculum-name}pass:q[<br><br>]
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Curriculumpass:q[<br><br>]{curriculum-name}pass:q[<br><br>]
+:toc: left
+endif::[]
+
+// document-version fallback, should usually be overwritten by the build process,
+// e.g. build.gradle
+:document-version: 2020.1
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+ifdef::backend-pdf[]
+:title-logo-image: image:nna-logo.png[pdfwidth=4.25in,align=center]
+endif::[]
+
+<<<
+:sectnums!:
+include::copyright.adoc[{include_configuration}]
+
+<<<
+toc::[]
+
+<<<
+:sectnums!:
+include::00-introduction/00-introduction.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::01-understanding-customers/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::02-defining-a-business-model/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::03-satisfying-customer-needs/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::04-measuring-value-creation/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::05-understanding-the-environment/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::06-influencing-the-environment/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::07-draft-a-plan/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::08-break-down-the-results/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::09-describe-the-solution/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::10-prioritize-development-work/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::11-build-and-deliver/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::12-managing-feedback-loops/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums!:
+// Auto-generated list of learning objectives
+include::learning-objectives.adoc[{include_configuration}]

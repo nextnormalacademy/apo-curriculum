@@ -1,7 +1,0 @@
-// tag::DE[]
-== Einführung: Allgemeines
-// end::DE[]
-
-// tag::EN[]
-== Introduction: General information
-// end::EN[]

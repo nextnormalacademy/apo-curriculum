@@ -1,0 +1,14 @@
+// tag::DE[]
+=== Allgemeine Informationen
+// end::DE[]
+
+// tag::EN[]
+=== General information
+
+This curriculum describes what participants can expect in the Advanced Product Owner training and what is part of the Advanced Product Owner certification exam.
+
+Trainers are free to add additional elements to their trainings.
+
+A training course designated as Advanced Product Owner training must, however, cover at least all the topics described in this curriculum.
+
+// end::EN[]

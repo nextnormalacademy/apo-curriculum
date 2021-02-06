@@ -1,0 +1,11 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Learning Objectives
+// end::DE[]
+
+// tag::EN[]
+=== Learning Objectives
+// end::EN[]

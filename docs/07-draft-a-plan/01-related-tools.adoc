@@ -1,0 +1,19 @@
+// (c) nextnormal.academy UG (haftungsbeschränkt) (https://nextnormal.academy)
+// ====================================================
+
+
+// tag::DE[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+
+// end::DE[]
+
+// tag::EN[]
+=== Related Tools
+
+- link:https://manual.advancedproductowner.com/inception-deck/[Inception Deck]
+- link:https://manual.advancedproductowner.com/value-model/[Value Model]
+
+// end::EN[]

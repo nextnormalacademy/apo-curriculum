@@ -1,0 +1,26 @@
+// tag::DE[]
+===  Design, Duration, and Didactic Methods
+
+The curriculum is designed for a three day on-site or a three day online training.
+
+The curriculum structure follows the connections between the tools and methodologies shown in the Advanced Product Owner Value Chain.
+
+It is not goal of the curriculum to enforce trainers using specific methods for teaching.
+The didactic methods should focus on these connections.
+Therefore, the trainings usually consist of about 80% practical exercises and feedback on the results of these exercises.
+
+// end::DE[]
+
+// tag::EN[]
+===  Design, Duration, and Didactic Methods
+
+The curriculum is designed for a three day on-site or a three day online training.
+
+The curriculum structure follows the connections between the tools and methodologies shown in the Advanced Product Owner Value Chain.
+
+It is not goal of the curriculum to enforce trainers using specific methods for teaching.
+The didactic methods should focus on these connections.
+Therefore, the trainings usually consist of about 80% practical exercises and feedback on the results of these exercises.
+
+// end::EN[]
+

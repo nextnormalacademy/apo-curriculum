@@ -1,0 +1,19 @@
+// tag::DE[]
+== Einführung
+// end::DE[]
+
+// tag::EN[]
+== Introduction
+// end::EN[]
+
+include::01-general.adoc[{include_configuration}]
+
+include::02-goal.adoc[{include_configuration}]
+
+include::03-structure.adoc[{include_configuration}]
+
+include::04-out-of-scope.adoc[{include_configuration}]
+
+include::05-preconditions.adoc[{include_configuration}]
+
+include::06-design.adoc[{include_configuration}]
