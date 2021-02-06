@@ -1,0 +1,25 @@
+include::config/setup.adoc[]
+
+= image:nna-logo.png[width=150] nextnormal.academy Curriculum
+{curriculum-name} [{curriculum-short}]
+
+The link:https://nextnormal.academy[nextnormal.academy] defines curricula for several topics related to agile product management.
+
+== Development versions
+
+This template is based on the iSAQB e.V. Advanced Level Template.
+The Advanced Level Template Curriculum is currently maintained and published in both English (EN) and German (DE).
+Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
+
+|===
+| Version | HTML | PDF
+
+| German
+| link:{curriculumFileName}-de.html[HTML]
+| link:{curriculumFileName}-de.pdf[PDF]
+
+| English
+| link:{curriculumFileName}-en.html[HTML]
+| link:{curriculumFileName}-en.pdf[PDF]
+
+|===

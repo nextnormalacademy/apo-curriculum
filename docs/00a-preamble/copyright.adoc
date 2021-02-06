@@ -1,0 +1,46 @@
+// tag::DE[]
+**(C) nextnormal.academy UG (haftungsbeschränkt) 2021**
+
+Der Inhalt dieses curriculums ist lizensiert unter den Bedingungen der link:https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons - Attribution - NonCommercial - NoDerivatives 4.0 International (CC BY-NC-ND 4.0)]
+
+[.text-center]
+image:by-nc-nd.eu.png[pdfwidth=50%,align=center,alt="Creative Commons - Attribution - NonCommercial - NoDerivatives 4.0 International"]
+
+Soll eine darüber hinausgehende Nutzung der Dokumente und/oder Lehrpläne erfolgen, zum Beispiel zur Weiterverbreitung an Dritte, Werbung etc., bitte unter info@nextnormal.academy nachfragen.
+Es müsste dann ein eigener Lizenzvertrag geschlossen werden.
+
+.Wichtiger Hinweis
+****
+*Grundsätzlich weisen wir darauf hin, dass dieses Curriculum urheberrechtlich geschützt ist.
+Alle Rechte an diesen Copyrights stehen ausschließlich der nextnormal.academy UG (haftungsbeschränkt) zu.
+ zu.*
+****
+
+// end::DE[]
+
+// tag::EN[]
+**(C) nextnormal.academy UG (haftungsbeschränkt) 2021**
+
+All contents of this curriculum are licensed under the conditions of link:https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons - Attribution - NonCommercial - NoDerivatives 4.0 International (CC BY-NC-ND 4.0)]
+
+[.text-center]
+image:by-nc-nd.eu.png[pdfwidth=50%,align=center,alt="Creative Commons - Attribution - NonCommercial - NoDerivatives 4.0 International"]
+
+If any other use of documents and/or curricula is intended, for instance for their dissemination to third parties, for advertising etc., please write to info@nextnormal.academy to enquire whether this is permitted.
+A separate license agreement would then have to be entered into.
+
+.Important Notice
+****
+*We stress that, as a matter of principle, this curriculum is protected by copyright.
+The nextnormal.academy UG (haftungsbeschränkt) has exclusive entitlement to these copyrights.*
+****
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+This version of this document has been produced with comments (like this one) enabled.
+It is *NOT* intended for public distribution or publication, but primarily for internal NNA purposes.
+====
+// end::REMARK[]
