@@ -3,7 +3,12 @@
 
 
 // tag::DE[]
-=== Learning Objectives
+=== Lernziele
+
+==== Kompetenzlevel 1
+
+- ...
+
 // end::DE[]
 
 // tag::EN[]
