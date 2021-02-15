@@ -8,4 +8,21 @@
 
 // tag::EN[]
 === Learning Objectives
+
+==== Competence Level 1
+
+- [[LO08-1-1]] Participants know about the concepts of Story Maps, Backbone, and Walking Skeleton
+- [[LO08-1-2]] Participants are able to use a Story Map for Release Planning
+
+==== Competence Level 2
+
+- [[LO08-2-1]] Participants are know how to work with different users in a Story Map
+- [[LO08-2-2]] Participants are aware of the difference between the Walking Skeleton and a Minimum Viable product
+- [[LO08-2-3]] Participants are able to create Story Maps for their working context
+
+==== Competence Level 3
+
+- [[LO08-3-1]] Participants are aware of the different ways to use the swimlanes of Story Maps and the effects in their working context
+- [[LO08-3-2]] Participants are able to use Story Maps for near and far future planning
+
 // end::EN[]

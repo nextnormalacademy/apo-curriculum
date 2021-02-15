@@ -8,4 +8,17 @@
 
 // tag::EN[]
 === Learning Objectives
+
+==== Competence Level 1
+
+- [[LO07-1-1]] Participants ...
+
+==== Competence Level 2
+
+- [[LO07-2-1]] Participants ...
+
+==== Competence Level 3
+
+- [[LO07-3-1]] Participants ...
+
 // end::EN[]
