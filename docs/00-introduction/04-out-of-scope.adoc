@@ -1,14 +1,14 @@
 // tag::DE[]
-=== Out of Scope
+=== Außerhalb des Rahmens
 
-This non-exhaustive out-of-scope list includes some topics that are related, but not part of the curriculum.
+Diese nicht abschließende "Out-of-Scope-Liste" enthält einige Themen, die zwar verwandt aber nicht Teil des Curriculums sind.
 
-- Frameworks like Scrum, LeSS, SAFe
-- Business strategy and portfolio management
-- Business analysis, requirements engineering and requirements management
-- Usability engineering and user experience design
-- Development and engineering practices
-- Deep dives into single methodologies
+- Frameworks wie Scrum, LeSS, SAFe
+- Geschäftsstrategie und Portfoliomanagement
+- Business-Analyse, Requirements Engineering und Anforderungsmanagement
+- Usability Engineering und User Experience Design
+- Entwicklungs- und Konstruktionspraktiken
+- Tiefe Einblicke in einzelne Methoden
 
 // end::DE[]
 
