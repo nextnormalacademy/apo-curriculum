@@ -5,7 +5,6 @@ Das Advanced Product Owner Curriculum bietet ein Open-Source, framework-neutrale
 
 Das Hauptziel des Advanced Product Owner Curriculums ist es, die Zusammenhänge und Wechselwirkungen zwischen Methoden und Werkzeugen des agilen Produktmanagements zu vermitteln. Die Teilnehmer sollen befähigt werden, die Eignung dieser Werkzeuge und Methoden für ihren jeweiligen Kontext zu beurteilen und erfolgreich anzuwenden.
 
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 // end::DE[]
 
 // tag::EN[]
