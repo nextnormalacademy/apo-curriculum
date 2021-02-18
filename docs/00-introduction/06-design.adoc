@@ -1,13 +1,13 @@
 // tag::DE[]
-===  Design, Duration, and Didactic Methods
+===  Aufbau, Dauer und didaktische Methoden
 
-The curriculum is designed for a three day on-site or a three day online training.
+Das Curriculum ist für ein dreitägiges Vor-Ort- oder ein dreitägiges Online-Training ausgelegt.
 
-The curriculum structure follows the connections between the tools and methodologies shown in the Advanced Product Owner Value Chain.
+Die Struktur des Curriculums folgt den Verbindungen zwischen den Werkzeugen und Methoden, die in der Wertschöpfungskette des Advanced Product Owner dargestellt sind.
 
-It is not goal of the curriculum to enforce trainers using specific methods for teaching.
-The didactic methods should focus on these connections.
-Therefore, the trainings usually consist of about 80% practical exercises and feedback on the results of these exercises.
+Es ist nicht Ziel des Curriculums, den Trainern bestimmte Lehrmethoden aufzuerlegen. 
+Die didaktischen Methoden sollen sich auf diese Zusammenhänge konzentrieren. 
+Daher bestehen die Trainings in der Regel aus ca. 80% praktischen Übungen und Feedback zu den Ergebnissen dieser Übungen.
 
 // end::DE[]
 
