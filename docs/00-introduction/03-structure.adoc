@@ -1,47 +1,47 @@
 // tag::DE[]
-===  Structure of Learning Objectives
+===  Struktur der Lernziele
 
-The Advanced Product Owner curriculum distinguishes between three levels of competence and three kinds of ability.
-All three levels of competence are tested in the examination, one third each
+Das Curriculum des Advanced Product Owner unterscheidet zwischen drei Kompetenzleveln und drei Arten von Fähigkeiten. 
+Alle drei Kompetenzstufen werden in der Prüfung zu jeweils einem Drittel geprüft.
 
-The three competence levels are
+Die drei Kompetenzlevel sind
 
-[NOTE]
+[HINWEIS]
 ====
-**Competence Level 1** focuses on specific tools or methods related to the learning objective.
-At competence level 1, neither combinations of tools and methods nor their relations to the working context are relevant.
-====
-
-[NOTE]
-====
-**Competence Level 2** focuses on the relationships between two tools or methods and the relationship of a single tool or method to the working context.
+**Kompetenzlevel 1** konzentriert sich auf spezifische Werkzeuge oder Methoden in Bezug auf das Lernziel. 
+Auf Kompetenzlevel 1 sind weder Kombinationen von Werkzeugen und Methoden noch deren Beziehungen zum Arbeitskontext relevant.
 ====
 
-[NOTE]
+[HINWEIS]
 ====
-**Competence Level 3** focuses on relationships between more than two tools or methods and on the relationship of combinations of tools and methods to the working context.
-====
-
-The three kinds of abilities are
-
-[NOTE]
-====
-**Knowing something** is about facts and figures about a tool or method.
-The knowledge that may be assessed is, for example, about the elements that make up a tool or the phases of a method.
-Knowledge about the history of methods or sources is not part of the examination.
+**Kompetenzlevel 2** konzentriert sich auf die Beziehungen zwischen zwei Werkzeugen oder Methoden und auf die Beziehung eines einzelnen Werkzeugs oder einer einzelnen Methode zum Arbeitskontext.
 ====
 
-[NOTE]
+[HINWEIS]
 ====
-**Being aware of something** is about being able to anticipate how a tool or method might be used.
-Anticipation is also relevant when deciding not to use a tool or method.
-In addition, being aware addresses the consequences of using different versions or templates of tools or methods and of combinations of tools and methods.
+**Kompetenzlevel 3** konzentriert sich auf die Beziehungen zwischen mehr als zwei Werkzeugen oder Methoden und auf die Beziehung von Kombinationen von Werkzeugen und Methoden zum Arbeitskontext.
 ====
 
-[NOTE]
+Die drei Arten von Fähigkeiten sind
+
+[HINWEIS]
 ====
-**Being able to do something** is about deciding about or applying tools and methods according to the working context.
-This can mean both that product owners apply the tools or methods themselves and that they let their team apply the tools or methods.
+**Etwas wissen** bezieht sich auf Fakten und Zahlen über ein Werkzeug oder eine Methode. 
+Das Wissen, das bewertet werden kann, ist z. B. über die Elemente, aus denen ein Werkzeug besteht, oder die Phasen einer Methode. 
+Wissen über die Geschichte von Methoden oder Quellen ist nicht Teil der Prüfung.
+====
+
+[HINWEIS]
+====
+**Sich über etwas bewusst sein** bedeutet, in der Lage zu sein, zu antizipieren, wie ein Werkzeug oder eine Methode verwendet werden könnte. 
+Antizipation ist auch relevant, wenn man sich entscheidet, ein Werkzeug oder eine Methode nicht zu verwenden. 
+Darüber hinaus befasst sich Bewusstheit mit den Folgen der Verwendung verschiedener Versionen oder Vorlagen von Werkzeugen oder Methoden und von Kombinationen von Werkzeugen und Methoden.
+====
+
+[HINWEIS]
+====
+**In der Lage sein, etwas zu tun** bedeutet, entsprechend dem Arbeitskontext über den Einsatz von Werkzeugen und Methoden zu entscheiden oder diese anzuwenden. 
+Das kann sowohl bedeuten, dass Product Owner die Werkzeuge oder Methoden selbst anwenden als auch, dass sie ihr Team die Werkzeuge oder Methoden anwenden lassen.
 ====
 // end::DE[]
 
@@ -49,7 +49,7 @@ This can mean both that product owners apply the tools or methods themselves and
 ===  Structure of Learning Objectives
 
 The Advanced Product Owner curriculum distinguishes between three levels of competence and three kinds of ability.
-All three levels of competence are tested in the examination, one third each
+All three levels of competence are tested in the examination, one third each.
 
 The three competence levels are
 
