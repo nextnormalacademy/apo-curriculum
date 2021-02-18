@@ -1,16 +1,16 @@
 // tag::DE[]
-=== Preconditions
+=== Voraussetzungen
 
-There are no formal prerequisites that participants need to meet in order to attend an Advanced Product Owner training.
+Es gibt keine formalen Voraussetzungen, die die Teilnehmer erfüllen müssen, um ein Advanced Product Owner Training zu besuchen.
 
-It is recommended to have at least some basic experience in one of the following areas:
+Es ist empfehlenswert, zumindest einige grundlegende Erfahrungen in einem der folgenden Bereiche zu haben:
 
-- Product management
-- Project management
-- User experience and usability engineering
-- Bsiness analysis
-- Requirements engineering and management
-- Product development
+- Produktmanagement
+- Projektmanagement
+- User Experience und Usability Engineering
+- Business-Analyse
+- Requirements Engineering und -management
+- Produktentwicklung
 
 // end::DE[]
 
@@ -24,7 +24,7 @@ It is recommended to have at least some basic experience in one of the following
 - Product management
 - Project management
 - User experience and usability engineering
-- Bsiness analysis
+- Business analysis
 - Requirements engineering and management
 - Product development
 
