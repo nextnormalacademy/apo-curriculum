@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Understanding Customers
+== Kunden verstehen
 // end::DE[]
 
 // tag::EN[]
