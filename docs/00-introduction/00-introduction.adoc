@@ -1,5 +1,17 @@
 // tag::DE[]
 == Einführung
+
+include::01-allgemein.adoc[{include_configuration}]
+
+include::02-Ziel.adoc[{include_configuration}]
+
+include::03-Struktur.adoc[{include_configuration}]
+
+include::04-out-of-scope.adoc[{include_configuration}]
+
+include::05-Voraussetzungen.adoc[{include_configuration}]
+
+include::06-Aufbau.adoc[{include_configuration}]
 // end::DE[]
 
 // tag::EN[]
