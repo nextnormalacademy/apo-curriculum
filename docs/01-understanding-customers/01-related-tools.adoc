@@ -3,7 +3,7 @@
 
 
 // tag::DE[]
-=== Related Tools
+=== Verwandte Tools
 
 - link:https://manual.advancedproductowner.com/customers/[Customers]
 // end::DE[]
