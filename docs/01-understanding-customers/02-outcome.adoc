@@ -3,7 +3,7 @@
 
 
 // tag::DE[]
-=== Outcome
+=== Ergebnis
 
 - link:https://manual.advancedproductowner.com/persona/[Persona]
 - link:https://manual.advancedproductowner.com/empathy-map/[Empathy Map]
