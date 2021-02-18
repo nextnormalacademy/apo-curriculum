@@ -1,10 +1,11 @@
 // tag::DE[]
 === Goal of Advanced Product Owner Curriculums
 
-The Advanced Product Owner curriculum provides an open-source, framework-neutral training scheme with a corresponding certification.
+Das Advanced Product Owner Curriculum bietet ein Open-Source, framework-neutrales Trainingsschema mit einer entsprechenden Zertifizierung.
 
-The main goal of the Advanced Product Owner curriculum is to convey the interrelationships and interactions between methods and tools of agile product management.
-Participants should be enabled to assess the suitability of these tools and methods for their respective context and to apply them successfully.
+Das Hauptziel des Advanced Product Owner Curriculums ist es, die Zusammenhänge und Wechselwirkungen zwischen Methoden und Werkzeugen des agilen Produktmanagements zu vermitteln. Die Teilnehmer sollen befähigt werden, die Eignung dieser Werkzeuge und Methoden für ihren jeweiligen Kontext zu beurteilen und erfolgreich anzuwenden.
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 // end::DE[]
 
 // tag::EN[]
