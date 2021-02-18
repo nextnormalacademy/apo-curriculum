@@ -6,39 +6,39 @@ Alle drei Kompetenzstufen werden in der Prüfung zu jeweils einem Drittel geprü
 
 Die drei Kompetenzlevel sind
 
-[HINWEIS]
+[NOTE]
 ====
 **Kompetenzlevel 1** konzentriert sich auf spezifische Werkzeuge oder Methoden in Bezug auf das Lernziel. 
 Auf Kompetenzlevel 1 sind weder Kombinationen von Werkzeugen und Methoden noch deren Beziehungen zum Arbeitskontext relevant.
 ====
 
-[HINWEIS]
+[NOTE]
 ====
 **Kompetenzlevel 2** konzentriert sich auf die Beziehungen zwischen zwei Werkzeugen oder Methoden und auf die Beziehung eines einzelnen Werkzeugs oder einer einzelnen Methode zum Arbeitskontext.
 ====
 
-[HINWEIS]
+[NOTE]
 ====
 **Kompetenzlevel 3** konzentriert sich auf die Beziehungen zwischen mehr als zwei Werkzeugen oder Methoden und auf die Beziehung von Kombinationen von Werkzeugen und Methoden zum Arbeitskontext.
 ====
 
 Die drei Arten von Fähigkeiten sind
 
-[HINWEIS]
+[NOTE]
 ====
 **Etwas wissen** bezieht sich auf Fakten und Zahlen über ein Werkzeug oder eine Methode. 
 Das Wissen, das bewertet werden kann, ist z. B. über die Elemente, aus denen ein Werkzeug besteht, oder die Phasen einer Methode. 
 Wissen über die Geschichte von Methoden oder Quellen ist nicht Teil der Prüfung.
 ====
 
-[HINWEIS]
+[NOTE]
 ====
 **Sich über etwas bewusst sein** bedeutet, in der Lage zu sein, zu antizipieren, wie ein Werkzeug oder eine Methode verwendet werden könnte. 
 Antizipation ist auch relevant, wenn man sich entscheidet, ein Werkzeug oder eine Methode nicht zu verwenden. 
 Darüber hinaus befasst sich Bewusstheit mit den Folgen der Verwendung verschiedener Versionen oder Vorlagen von Werkzeugen oder Methoden und von Kombinationen von Werkzeugen und Methoden.
 ====
 
-[HINWEIS]
+[NOTE]
 ====
 **In der Lage sein, etwas zu tun** bedeutet, entsprechend dem Arbeitskontext über den Einsatz von Werkzeugen und Methoden zu entscheiden oder diese anzuwenden. 
 Das kann sowohl bedeuten, dass Product Owner die Werkzeuge oder Methoden selbst anwenden als auch, dass sie ihr Team die Werkzeuge oder Methoden anwenden lassen.
