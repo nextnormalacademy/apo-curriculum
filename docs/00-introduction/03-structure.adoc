@@ -27,7 +27,7 @@ The three kinds of abilities are
 [NOTE]
 ====
 **Knowing something** is about facts and figures about a tool or method.
-The knowledge that may be assessed is, for example, about the elements that make up a tool or the phases of a methods.
+The knowledge that may be assessed is, for example, about the elements that make up a tool or the phases of a method.
 Knowledge about the history of methods or sources is not part of the examination.
 ====
 
