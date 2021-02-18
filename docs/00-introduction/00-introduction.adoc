@@ -1,7 +1,7 @@
 // tag::DE[]
 == Einführung
 
-include::01-allgemein.adoc[{include_configuration}]
+include::01-Allgemein.adoc[{include_configuration}]
 
 include::02-Ziel.adoc[{include_configuration}]
 
