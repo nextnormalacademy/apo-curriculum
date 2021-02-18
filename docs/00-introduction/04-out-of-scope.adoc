@@ -1,7 +1,7 @@
 // tag::DE[]
 === Out of Scope
 
-Diese nicht abschließende "Out-of-Scope-Liste" enthält einige Themen, die zwar verwandt aber nicht Teil des Curriculums sind.
+Diese nicht vollständige "Out-of-Scope-Liste" enthält einige Themen, die zwar verwandt aber nicht Teil des Curriculums sind.
 
 - Frameworks wie Scrum, LeSS, SAFe
 - Geschäftsstrategie und Portfoliomanagement
