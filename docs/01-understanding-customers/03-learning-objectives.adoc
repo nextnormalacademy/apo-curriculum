@@ -3,24 +3,24 @@
 
 
 // tag::DE[]
-=== Learning Objectives
+=== Lernziele
 
-==== Competence Level 1
+==== Kompetenzlevel 1
 
-- [[LO01-1-1]] Participants are able to distinguish between customers and users
-- [[LO01-1-2]] Participants are able to describe typical groups of customers and users as personas
+- [[LO01-1-1]] Die Teilnehmer sind in der Lage, zwischen Kunden und Anwendern zu unterscheiden
+- [[LO01-1-2]] Die Teilnehmer sind in der Lage, typische Kunden- und Anwendergruppen als Personas zu beschreiben
 
-==== Competence Level 2
+==== Kompetenzlevel 2
 
-- [[LO01-2-1]] Participants are aware of which aspects from personas are helpful or necessary for the creation of empathy maps
-- [[LO01-2-2]] Participants are aware of which aspects of customers or users are relevant for the creation of empathy maps in their working context
-- [[LO01-2-3]] Participants are able to decide which persona template best fits their work context or create a specific template for their working context
+- [[LO01-2-1]] Die Teilnehmer sind sich bewusst, welche Aspekte von Personas hilfreich oder notwendig für die Erstellung von Empathy Maps sind
+- [[LO01-2-2]] Die Teilnehmer sind sich bewusst, welche Aspekte von Kunden oder Nutzern für die Erstellung von empathy maps in ihrem Arbeitskontext relevant sind
+- [[LO01-2-3]] Die Teilnehmer sind in der Lage, zu entscheiden, welche Persona-Vorlage am besten zu ihrem Arbeitskontext passt oder eine spezifische Vorlage für ihren Arbeitskontext zu erstellen
 
-==== Competence Level 3
+==== Kompetenzlevel 3
 
-- [[LO01-3-1]] Participants are able to decide whether personas or empathy maps are useful in their working context
-- [[LO01-3-2]] Participants are able to describe the trade-off of using or not using  personas or empathy maps in their working context
-- [[LO01-3-3]] Participants are aware of the lack of information when personas or empathy maps are not used in their working context
+- [[LO01-3-1]] Die Teilnehmer sind in der Lage zu entscheiden, ob Personas oder Empathy Maps in ihrem Arbeitskontext sinnvoll sind
+- [[LO01-3-2]] Die Teilnehmer sind in der Lage, den Trade-off bei der Verwendung oder Nichtverwendung von Personas oder Empathy Maps in ihrem Arbeitskontext zu beschreiben
+- [[LO01-3-3]] Die Teilnehmer sind sich des Informationsdefizits bewusst, wenn Personas oder Empathy Maps in ihrem Arbeitskontext nicht verwendet werden
 
 // end::DE[]
 
