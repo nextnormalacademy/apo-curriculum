@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Goal of Advanced Product Owner Curriculums
+=== Ziel des Advanced Product Owner Curriculums
 
 Das Advanced Product Owner Curriculum bietet ein Open-Source, framework-neutrales Trainingsschema mit einer entsprechenden Zertifizierung.
 
@@ -8,7 +8,7 @@ Das Hauptziel des Advanced Product Owner Curriculums ist es, die Zusammenhänge 
 // end::DE[]
 
 // tag::EN[]
-=== Goal of Advanced Product Owner Curriculums
+=== Goal of Advanced Product Owner Curriculum
 
 The Advanced Product Owner curriculum provides an open-source, framework-neutral training scheme with a corresponding certification.
 
