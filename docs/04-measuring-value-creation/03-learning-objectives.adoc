@@ -3,7 +3,25 @@
 
 
 // tag::DE[]
-=== Learning Objectives
+=== Lernziele
+
+==== Kompetenzlevel 1
+
+- [[LO04-1-1]] Die Teilnehmer kennen die Unterschiede zwischen vorlaufenden und nachlaufenden Indikatoren
+- [[LO04-1-2]] Die Teilnehmer kennen den Unterschied zwischen der Ergebniszone, der Aktionszone und der Wirkungszone
+
+==== Kompetenzlevel 2
+
+- [[LO04-2-1]] Die Teilnehmer sind sich des Informationsgewinns oder -mangels bewusst, der von der Entscheidung abhängt, ob ein Wertemodell in ihrem Arbeitskontext verwendet wird oder nicht
+- [[LO04-2-2]] Die Teilnehmer sind sich der führenden und nachlaufenden Indikatoren in ihrem Arbeitskontext bewusst
+- [[LO04-2-3]] Die Teilnehmer sind in der Lage, führende Indikatoren aus dem Wertversprechen und nachlaufende Indikatoren aus dem Kundensegment des Value Proposition Canvas abzuleiten
+
+==== Kompetenzlevel 3
+
+- [[LO04-3-1]] Die Teilnehmer sind in der Lage, die nicht offensichtlichen Früh- und Spätindikatoren zu identifizieren, die nicht aus dem Value Proposition Canvas in ihrem Arbeitskontext abgeleitet werden können
+- [[LO04-3-2]] Die Teilnehmer sind in der Lage, ein Wertmodell für ihren Arbeitskontext zu erstellen
+- [[LO04-3-3]] Die Teilnehmer sind in der Lage, das Wertmodell als Werkzeug in Feedback-Schleifen zu verwenden
+
 // end::DE[]
 
 // tag::EN[]
