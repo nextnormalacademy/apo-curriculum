@@ -3,7 +3,20 @@
 
 
 // tag::DE[]
-=== Learning Objectives
+=== Lernziele
+
+==== Kompetenzlevel 1
+
+- [[LO07-1-1]] Die Teilnehmer ...
+
+==== Kompetenzlevel 2
+
+- [[LO07-2-1]] Die Teilnehmer ...
+
+==== Kompetenzlevel 3
+
+- [[LO07-3-1]] Die Teilnehmer ...
+
 // end::DE[]
 
 // tag::EN[]
