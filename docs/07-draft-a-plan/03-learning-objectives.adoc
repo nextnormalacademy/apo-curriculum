@@ -3,7 +3,25 @@
 
 
 // tag::DE[]
-=== Learning Objectives
+=== Lernziele
+
+==== Kompetenzlevel 1
+
+- [[LO07-1-1]] Die Teilnehmer kennen das Konzept einer Goal Oriented Roadmap
+- [[LO07-1-2]] Die Teilnehmer sind in der Lage, Ziele für die Goal Oriented Roadmap zu beschreiben
+- [[LO07-1-3]] Die Teilnehmer kennen die Beziehungen und Abhängigkeiten von Zielen
+
+==== Kompetenzlevel 2
+
+- [[LO07-2-1]] Die Teilnehmer sind in der Lage, die Ziele aus dem Inception Deck abzuleiten
+- [[LO07-2-2]] Die Teilnehmer sind in der Lage, die Ziele und die zugehörigen Metriken aus dem Value Model abzuleiten
+- [[LO07-2-3]] Die Teilnehmer sind sich des Unterschieds und der Beziehung zwischen Deliverables und Goals bewusst
+
+==== Kompetenzlevel 3
+
+- [[LO07-3-1]] Die Teilnehmer kennen die Goal Oriented Roadmap als Werkzeug zur Erstellung eines Plans, nicht zur Erfolgsmessung
+- [[LO07-3-2]] Die Teilnehmer kennen die Goal Oriented Roadmap als Hilfsmittel für die Kommunikation mit Stakeholdern
+
 // end::DE[]
 
 // tag::EN[]
