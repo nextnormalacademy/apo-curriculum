@@ -7,7 +7,7 @@ Die Struktur des Curriculums folgt den Verbindungen zwischen den Werkzeugen und 
 
 Es ist nicht Ziel des Curriculums, den Trainern bestimmte Lehrmethoden aufzuerlegen. 
 Die didaktischen Methoden sollen sich auf diese Zusammenhänge konzentrieren. 
-Daher bestehen die Trainings in der Regel aus ca. 80% praktischen Übungen und Feedback zu den Ergebnissen dieser Übungen.
+Daher bestehen die Trainings in der Regel aus ca. 80 % praktischen Übungen und Feedback zu den Ergebnissen dieser Übungen.
 
 // end::DE[]
 
