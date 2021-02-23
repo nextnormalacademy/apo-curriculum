@@ -4,6 +4,26 @@
 
 // tag::DE[]
 === Learning Objectives
+
+==== Kompetenzlevel 1
+
+ - [[LO11-1-1]] Die Teilnehmer wissen, wie Kanban auf Prozesse wirkt
+ - [[LO11-1-2]] Die Teilnehmer kennen Proto-Kanban
+ - [[LO11-1-3]] Die Teilnehmer kennen die 7 Kadenzen von Kanban
+ - [[LO11-1-4]] Teilnehmer kennen das Lead Time Distribution Diagramm
+ - [[LO11-1-5]] Die Teilnehmer kennen den Unterschied zwischen einem feedback-ready Produktinkrement und einem delivery-ready Produktinkrement
+
+==== Kompetenzlevel 2
+
+- [[LO11-2-1]] Die Teilnehmer kennen die Abstraktionsebene von Kanban und wissen, wie man agile Frameworks in den Kanban-Ablauf einbettet
+- [[LO11-2-2]] Die Teilnehmer sind in der Lage, den Kanban-Workflow für ihren Arbeitskontext zu definieren und zu entwickeln
+- [[LO11-2-3]] Die Teilnehmer sind in der Lage, die Kriterien für ein Produktinkrement in ihrem Arbeitskontext zu definieren
+
+==== Kompetenzlevel 3
+
+- [[LO11-3-1]] Die Teilnehmer sind in der Lage, das Lead Time Distribution Diagramm für die Planung mit der Story Map und dem Product Backlog in ihrem Arbeitskontext zu nutzen
+- [[LO11-3-2]] Die Teilnehmer sind in der Lage, das Lead Time Distribution Diagramm für die Prognose und Definition von Service Levels in ihrem Arbeitskontext zu nutzen
+
 // end::DE[]
 
 // tag::EN[]
