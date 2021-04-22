@@ -17,7 +17,7 @@
 - [[LO06-2-3]] Die Teilnehmer sind sich der Beziehung und der Bedeutung der Zielgruppe in ihrem Arbeitskontext bewusst
 - [[LO06-2-4]] Die Teilnehmer sind sich der politischen Nebeneffekte des Inception Decks in ihrem Arbeitskontext bewusst
 
-==== Kompezenzlevel 3
+==== Kompetenzlevel 3
 
 - [[LO06-3-1]] Die Teilnehmer sind in der Lage, in ihrem Arbeitskontext die Feedback-Schleifen von den Inception Deck Pitches zur Value Proposition und zum Geschäftsmodell zu identifizieren und zu steuern
 
