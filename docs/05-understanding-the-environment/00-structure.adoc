@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Understanding the Environment
+== Das Umfeld verstehen
 // end::DE[]
 
 // tag::EN[]
