@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Influencing the Environment
+== Das Umfeld beeinflussen
 // end::DE[]
 
 // tag::EN[]
