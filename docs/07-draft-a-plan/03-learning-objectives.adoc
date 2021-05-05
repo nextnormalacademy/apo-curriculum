@@ -7,20 +7,20 @@
 
 ==== Kompetenzlevel 1
 
-- [[LO07-1-1]] Die Teilnehmer kennen das Konzept einer Goal Oriented Roadmap
-- [[LO07-1-2]] Die Teilnehmer sind in der Lage, Ziele für die Goal Oriented Roadmap zu beschreiben
-- [[LO07-1-3]] Die Teilnehmer kennen die Beziehungen und Abhängigkeiten von Zielen
+- [[LO07-1-1]] Die Teilnehmer:innen kennen das Konzept einer zielorientierten ("goal-oriented") Roadmap
+- [[LO07-1-2]] Die Teilnehmer:innen sind in der Lage, Ziele für zielorientierte ("goal-oriented") Roadmap zu beschreiben
+- [[LO07-1-3]] Die Teilnehmer:innen kennen die Beziehungen und Abhängigkeiten von Zielen
 
 ==== Kompetenzlevel 2
 
-- [[LO07-2-1]] Die Teilnehmer sind in der Lage, die Ziele aus dem Inception Deck abzuleiten
-- [[LO07-2-2]] Die Teilnehmer sind in der Lage, die Ziele und die zugehörigen Metriken aus dem Value Model abzuleiten
-- [[LO07-2-3]] Die Teilnehmer sind sich des Unterschieds und der Beziehung zwischen Deliverables und Goals bewusst
+- [[LO07-2-1]] Die Teilnehmer:innen sind in der Lage, die Ziele aus dem Inception Deck abzuleiten
+- [[LO07-2-2]] Die Teilnehmer:innen sind in der Lage, die Ziele und die zugehörigen Metriken aus dem Wertangebot ("Value Model") abzuleiten
+- [[LO07-2-3]] Die Teilnehmer:innen sind sich des Unterschieds und der Beziehung zwischen Liefergegenständen ("Deliverables") und  Zielen ("Goals") bewusst
 
 ==== Kompetenzlevel 3
 
-- [[LO07-3-1]] Die Teilnehmer kennen die Goal Oriented Roadmap als Werkzeug zur Erstellung eines Plans, nicht zur Erfolgsmessung
-- [[LO07-3-2]] Die Teilnehmer kennen die Goal Oriented Roadmap als Hilfsmittel für die Kommunikation mit Stakeholdern
+- [[LO07-3-1]] Die Teilnehmer:innen kennen die zielorientierte ("goal-oriented") Roadmap als Werkzeug zur Erstellung eines Plans, nicht zur Erfolgsmessung
+- [[LO07-3-2]] Die Teilnehmer:innen kennen die zielorientierte ("goal-oriented") Roadmap als Hilfsmittel für die Kommunikation mit Stakeholdern
 
 // end::DE[]
 
@@ -29,8 +29,8 @@
 
 ==== Competence Level 1
 
-- [[LO07-1-1]] Participants know about the concept of a Goal Oriented Roadmap
-- [[LO07-1-2]] Participants are able to describe goals for the Goal Oriented Roadmap
+- [[LO07-1-1]] Participants know about the concept of a Goal-Oriented Roadmap
+- [[LO07-1-2]] Participants are able to describe goals for the Goal-Oriented Roadmap
 - [[LO07-1-3]] Participants are aware of the relationships and dependencies of goals
 
 ==== Competence Level 2
@@ -41,7 +41,7 @@
 
 ==== Competence Level 3
 
-- [[LO07-3-1]] Participants are aware of the Goal Oriented Roadmap as a tool for drafting a plan not for measuring success
-- [[LO07-3-2]] Participants are aware of the Goal Oriented Roadmap as an intermediate tool for communication with stakeholders
+- [[LO07-3-1]] Participants are aware of the Goal-Oriented Roadmap as a tool for drafting a plan not for measuring success
+- [[LO07-3-2]] Participants are aware of the Goal-Oriented Roadmap as an intermediate tool for communication with stakeholders
 
 // end::EN[]
