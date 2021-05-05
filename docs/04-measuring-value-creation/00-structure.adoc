@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Measuring Value Creation
+== Wertschöpfung messen
 // end::DE[]
 
 // tag::EN[]
