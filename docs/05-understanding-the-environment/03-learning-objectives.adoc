@@ -7,17 +7,17 @@
 
 ==== Kompetenzlevel 1
 
-- [[LO05-1-1]] Die Teilnehmer kennen die vier Kreise des Stakeholder-Zwiebelmodells
-- [[LO05-1-2]] Die Teilnehmer kennen die zwei Dimensionen der Power-Interest-Matrix
-- [[LO05-1-3]]  Die Teilnehmer kennen die vier Quadranten der Power-Interest-Matrix
+- [[LO05-1-1]] Die Teilnehmer:innen kennen die vier Kreise des Stakeholder Onion Diagrams
+- [[LO05-1-2]] Die Teilnehmer:innen kennen die zwei Dimensionen des Power-Interest Grids
+- [[LO05-1-3]]  Die Teilnehmer:innen kennen die vier Quadranten des Power-Interest Grids
 
 ==== Kompetenzlevel 2
 
-- [[LO05-2-1]] Die Teilnehmer sind in der Lage, eine Stakeholder-Map für ihren Arbeitskontext zu erstellen und zu entwickeln
+- [[LO05-2-1]] Die Teilnehmer:innen sind in der Lage, Stakeholder Maps für ihren Arbeitskontext zu erstellen und zu entwickeln
 
 ==== Kompetenzlevel 3
 
-- [[LO05-3-1]] Die Teilnehmer kennen die politischen Dimensionen des Stakeholder-Mappings in ihrem Arbeitskontext
+- [[LO05-3-1]] Die Teilnehmer:innen kennen die politischen Dimensionen des Stakeholder Mappings in ihrem Arbeitskontext
 
 // end::DE[]
 
@@ -26,13 +26,13 @@
 
 ==== Competence Level 1
 
-- [[LO05-1-1]] Participants know about the four circles of the stakeholder onion model
-- [[LO05-1-2]] Participants know about the two dimensions of the power interest grid
-- [[LO05-1-3]] Participants know about the four quadrants of the power interest grid
+- [[LO05-1-1]] Participants know about the four circles of the Stakeholder Onion Diagrams
+- [[LO05-1-2]] Participants know about the two dimensions of the power-interest grid
+- [[LO05-1-3]] Participants know about the four quadrants of the power-interest grid
 
 ==== Competence Level 2
 
-- [[LO05-2-1]] Participants are able to create and develop a stakeholder map for their working context
+- [[LO05-2-1]] Participants are able to create and develop stakeholder maps for their working context
 
 ==== Competence Level 3
 
