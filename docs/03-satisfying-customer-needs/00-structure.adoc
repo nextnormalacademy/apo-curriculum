@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Satisfying Customer Needs
+== Kundenbedürfnisse erfüllen
 // end::DE[]
 
 // tag::EN[]
