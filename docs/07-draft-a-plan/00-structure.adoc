@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Draft a Plan
+== Einen Plan entwerfen
 // end::DE[]
 
 // tag::EN[]
