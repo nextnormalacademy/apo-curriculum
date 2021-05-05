@@ -17,7 +17,8 @@
 
 ==== Kompetenzlevel 3
 
-- [[LO07-3-1]] Die Teilnehmer:innen sind in ihrem Arbeitskontext in der Lage zu entscheiden, bis zu welchem Detailgrad sie die Deliverables der Impact Map beschreiben.
+- [[LO07-3-1]] Die Teilnehmer:innen sind in der Lage, für ihren Arbeitskontext eine Impact Map zu erstellen.
+[[LO07-3-2]] Die Teilnehmer:innen sind in ihrem Arbeitskontext in der Lage zu entscheiden, bis zu welchem Detailgrad sie die Deliverables der Impact Map beschreiben.
 
 // end::DE[]
 
@@ -26,14 +27,17 @@
 
 ==== Competence Level 1
 
-- [[LO07-1-1]] Participants ...
+- [[LO07-1-1]] Participants know what an Impact Map is.
+- [[LO07-1-2]] Participants know the elements of an Impact Map.
 
 ==== Competence Level 2
 
-- [[LO07-2-1]] Participants ...
+- [[LO07-2-1]] Participants are able to create an Impact Map based on a goal formulated in the goal-oriented roadmap.
+- [[LO07-2-2]] Participants are able to select relevant stakeholders from a Stakeholder Onion Diagram as actors for an Impact Map.
 
 ==== Competence Level 3
 
-- [[LO07-3-1]] Participants ...
+- [[LO07-3-1]] Participants are able to create an Impact Map for their working context.
+- [[LO07-3-2]] Participants are able to decide to what level of detail they describe the deliverables of the Impact Map in their working context.
 
 // end::EN[]
