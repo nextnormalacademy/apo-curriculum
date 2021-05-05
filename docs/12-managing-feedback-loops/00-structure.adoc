@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Managing Feedback Loops
+== Feedback Loops managen
 // end::DE[]
 
 // tag::EN[]
