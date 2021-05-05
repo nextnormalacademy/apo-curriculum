@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Describe the Solution
+== Die Lösung beschreiben
 // end::DE[]
 
 // tag::EN[]
