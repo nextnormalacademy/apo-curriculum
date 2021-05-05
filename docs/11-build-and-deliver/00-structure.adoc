@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Build and Deliver
+== Bauen und ausliefern
 // end::DE[]
 
 // tag::EN[]
