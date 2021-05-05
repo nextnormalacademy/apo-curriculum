@@ -7,20 +7,20 @@
 
 ==== Kompetenzlevel 1
 
-- [[LO04-1-1]] Die Teilnehmer kennen die Unterschiede zwischen vorlaufenden und nachlaufenden Indikatoren
-- [[LO04-1-2]] Die Teilnehmer kennen den Unterschied zwischen der Ergebniszone, der Aktionszone und der Wirkungszone
+- [[LO04-1-1]] Die Teilnehmer:innen kennen die Unterschiede zwischen vorlaufenden ("leading") und nachlaufenden ("lagging") Indikatoren
+- [[LO04-1-2]] Die Teilnehmer:innen kennen den Unterschied zwischen dem Ergebnisraum, dem Handlungsraum und dem Wirkungsraum
 
 ==== Kompetenzlevel 2
 
-- [[LO04-2-1]] Die Teilnehmer sind sich des Informationsgewinns oder -mangels bewusst, der von der Entscheidung abhängt, ob ein Wertemodell in ihrem Arbeitskontext verwendet wird oder nicht
-- [[LO04-2-2]] Die Teilnehmer sind sich der führenden und nachlaufenden Indikatoren in ihrem Arbeitskontext bewusst
-- [[LO04-2-3]] Die Teilnehmer sind in der Lage, führende Indikatoren aus dem Wertversprechen und nachlaufende Indikatoren aus dem Kundensegment des Value Proposition Canvas abzuleiten
+- [[LO04-2-1]] Die Teilnehmer:innen sind sich des Informationsgewinns oder -mangels bewusst, der von der Entscheidung abhängt, ob ein Nutzenmodell in ihrem Arbeitskontext verwendet wird oder nicht
+- [[LO04-2-2]] Die Teilnehmer:innen sind sich der führenden ("leading") und nachlaufenden ("lagging") Indikatoren in ihrem Arbeitskontext bewusst
+- [[LO04-2-3]] Die Teilnehmer:innen sind in der Lage, führende ("leading") Indikatoren aus dem Wertversprechen und nachlaufende ("lagging") Indikatoren aus dem Kundensegment des Value Proposition Canvas abzuleiten
 
 ==== Kompetenzlevel 3
 
-- [[LO04-3-1]] Die Teilnehmer sind in der Lage, die nicht offensichtlichen Früh- und Spätindikatoren zu identifizieren, die nicht aus dem Value Proposition Canvas in ihrem Arbeitskontext abgeleitet werden können
-- [[LO04-3-2]] Die Teilnehmer sind in der Lage, ein Wertmodell für ihren Arbeitskontext zu erstellen
-- [[LO04-3-3]] Die Teilnehmer sind in der Lage, das Wertmodell als Werkzeug in Feedback-Schleifen zu verwenden
+- [[LO04-3-1]] Die Teilnehmer:innen sind in der Lage, die nicht offensichtlichen Früh- und Spätindikatoren ("leading and lagging indicators") zu identifizieren, die nicht aus dem Value Proposition Canvas in ihrem Arbeitskontext abgeleitet werden können
+- [[LO04-3-2]] Die Teilnehmer:innen sind in der Lage, ein Nutzenmodell für ihren Arbeitskontext zu erstellen
+- [[LO04-3-3]] Die Teilnehmer:innen sind in der Lage, das Nutzenmodell als Werkzeug in Feedbackschleifen zu verwenden
 
 // end::DE[]
 
@@ -30,18 +30,18 @@
 ==== Competence Level 1
 
 - [[LO04-1-1]] Participants know the differences between leading and lagging indicators
-- [[LO04-1-2]] Participants know the difference between the zone of results, the zone of action, and the zone of impact
+- [[LO04-1-2]] Participants know the difference between the zone of results, the zone of action, and the zone of impact in the Value Model
 
 ==== Competence Level 2
 
-- [[LO04-2-1]] Participants are aware of the gain or lack of information that depends on the decision whether or not to use a value model in their working context
+- [[LO04-2-1]] Participants are aware of the gain or lack of information that results from the decision whether or not to use a Value Model in their working context
 - [[LO04-2-2]] Participants are aware of the leading and lagging indicators in their working context
-- [[LO04-2-3]] Participants are able to derive leading indicators from the value proposition and lagging indicators from the customer segment of the value proposition canvas
+- [[LO04-2-3]] Participants are able to derive leading indicators from the value proposition and lagging indicators from the customer segment of the Value Proposition Canvas
 
 ==== Competence Level 3
 
-- [[LO04-3-1]] Participants are able to identify the non-obvious leading and lagging indicators that cannot be derived from the value proposition canvas in their working context
-- [[LO04-3-2]] Participants are able to create a value model for their working context
-- [[LO04-3-3]] Participants are able to use the value model as a tool in feedback loops
+- [[LO04-3-1]] Participants are able to identify the non-obvious leading and lagging indicators that cannot be derived from the Value Proposition Canvas in their working context
+- [[LO04-3-2]] Participants are able to create a Value Model for their working context
+- [[LO04-3-3]] Participants are able to use the Value Model as a tool in feedback loops
 
 // end::EN[]
