@@ -7,23 +7,23 @@
 
 ==== Kompetenzlevel 1
 
-- [[LO03-1-1]] Die Teilnehmer kennen die 2 Perspektiven der Value Proposition Canvas
-- [[LO03-1-2]] Die Teilnehmer kennen die 3 Aspekte einer Value Proposition
-- [[LO03-1-3]] Die Teilnehmer kennen die 3 Aspekte eines Kundensegments
-- [[LO03-1-4]] Die Teilnehmer kennen den idealen Weg zur Vervollständigung eines Value Proposition Canvas
-- [[LO03-1-5]] Die Teilnehmer sind sich im Klaren darüber, dass potenzielle Gewinne für ein Kundensegment von den Kunden nicht bewusst wahrgenommen werden
+- [[LO03-1-1]] Die Teilnehmer:innen kennen die 2 Perspektiven des Value Proposition Canvas
+- [[LO03-1-2]] Die Teilnehmer:innen kennen die 3 Aspekte eines Wertangebots ("Value Proposition")
+- [[LO03-1-3]] Die Teilnehmer:innen kennen die 3 Aspekte eines Kundensegments
+- [[LO03-1-4]] Die Teilnehmer:innen kennen den idealen Weg zur Befüllung eines Value Proposition Canvas
+- [[LO03-1-5]] Die Teilnehmer:innen sind sich im Klaren darüber, dass potenzielle Gewinne ("gains") für ein Kundensegment von den Kunden nicht bewusst wahrgenommen werden
 
 ==== Kompetenzlevel 2
 
-- [[LO03-2-1]] Die Teilnehmer kennen den Zusammenhang zwischen den Bereichen "Kundenaufgaben" und "Produkte & Dienstleistungen" im Value Proposition Canvas zu den Bereichen "Wertversprechen" und "Kundensegmente" des Business Model Canvas
-- [[LO03-2-2]] Die Teilnehmer sind sich der Konsequenzen bewusst, ob für verschiedene Kundensegmente unterschiedliche Value Proposition Canvas erstellt werden sollen oder nicht
-- [[LO03-2-3]] Die Teilnehmer sind in der Lage zu entscheiden, für welche Kundensegmente in ihrem Arbeitskontext ein Value Proposition Canvas erstellt werden sollte
+- [[LO03-2-1]] Die Teilnehmer:innen kennen den Zusammenhang zwischen den Bereichen "Kundenaufgaben" und "Produkte & Dienstleistungen" im Value Proposition Canvas zu den Bereichen "Wertangebot" und "Kundensegmente" des Business Model Canvas
+- [[LO03-2-2]] Die Teilnehmer:innen sind in der Lage zu entscheiden, ob für verschiedene Kundensegmente unterschiedliche Value Proposition Canvases erstellt werden sollten 
+- [[LO03-2-3]] Die Teilnehmer:innen sind in der Lage zu entscheiden, für welche Kundensegmente in ihrem Arbeitskontext ein Value Proposition Canvas erstellt werden sollte
 
 ==== Kompetenzlevel 3
 
-- [[LO03-3-1]] Die Teilnehmer sind in der Lage, Produkte und Dienstleistungen für das Wertversprechen zu identifizieren, die im Zusammenhang mit dem Geschäftsmodell in ihrem Arbeitskontext stehen
-- [[LO03-3-2]] Die Teilnehmer sind in der Lage, in ihrem Arbeitskontext die "pain relievers" von den "gain creators" zu unterscheiden
-- [[LO03-3-3]] Die Teilnehmer sind in der Lage, Wertversprechen für verschiedene Kundensegmente auf Basis von Empathy Maps und Geschäftsmodellen in ihrem Arbeitskontext zu erstellen
+- [[LO03-3-1]] Die Teilnehmer:innen sind in der Lage, Produkte und Dienstleistungen für das Wertangebot zu identifizieren, die im Zusammenhang mit dem Geschäftsmodell in ihrem Arbeitskontext stehen
+- [[LO03-3-2]] Die Teilnehmer:innen sind in der Lage, in ihrem Arbeitskontext die Schmerzmittel ("pain relievers") von den Gewinnbringern ("gain creators") zu unterscheiden
+- [[LO03-3-3]] Die Teilnehmer:innen sind in der Lage, Wertangebote für verschiedene Kundensegmente auf Basis von Empathiekarten ("empathy maps") und Geschäftsmodellen in ihrem Arbeitskontext zu erstellen
 
 // end::DE[]
 
@@ -32,17 +32,17 @@
 
 ==== Competence Level 1
 
-- [[LO03-1-1]] Participants know about the 2 perspectives of the value proposition canvas
+- [[LO03-1-1]] Participants know about the 2 perspectives of the Value Proposition Canvas
 - [[LO03-1-2]] Participants know the 3 aspects of a value proposition
 - [[LO03-1-3]] Participants know the 3 aspects of a customer segment
-- [[LO03-1-4]] Participants are aware of the ideal path to complete a value proposition canvas
-- [[LO03-1-5]] Participants are aware of that potential gains for a customer segment are not consciously perceived by the customers 
+- [[LO03-1-4]] Participants are aware of the ideal path to fill out a Value Proposition Canvas
+- [[LO03-1-5]] Participants are aware that potential gains for a customer segment are not consciously perceived by the customers 
 
 ==== Competence Level 2
 
-- [[LO03-2-1]] Participants know about the relation between the areas "customer jobs" and "products & services" in the value proposition canvas to the areas "value proposition" and "customer segments" of the business model canvas
-- [[LO03-2-2]] Participants are aware of the consequences whether or not to create different value proposition canvases for different customer segments
-- [[LO03-2-3]] Participants are able to decide for which customer segments a value proposition canvas should be created in their working context
+- [[LO03-2-1]] Participants know about the relation between the areas "customer jobs" and "products & services" in the Value Proposition Canvas to the areas "value proposition" and "customer segments" of the Business Model Canvas
+- [[LO03-2-2]] Participants are able to decide whether or not to create different Value Proposition Canvases for different customer segments
+- [[LO03-2-3]] Participants are able to decide for which customer segments a Value Proposition Canvas should be created in their working context
 
 ==== Competence Level 3
 
