@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Prioritize Development Work
+== Entwicklungsarbeit priorisieren
 // end::DE[]
 
 // tag::EN[]
