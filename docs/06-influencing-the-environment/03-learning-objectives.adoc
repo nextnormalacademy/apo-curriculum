@@ -28,7 +28,7 @@
 
 ==== Competence Level 1
 
-- [[LO06-1-1]] Participants know about the 10 views of the inception deck
+- [[LO06-1-1]] Participants know about the 10 views of the Inception Deck
 - [[LO06-1-2]] Participants are able to decide wether to use an elevator pitch or a product box as part of the Inception Deck
 
 ==== Competence Level 2
@@ -40,6 +40,6 @@
 
 ==== Competence Level 3
 
-- [[LO06-3-1]] Participants are able to identify and manage the Feedback Loops from the Inception Deck pitches to the Value Proposition  and the Business Model in their working context
+- [[LO06-3-1]] Participants are able to identify and manage the Feedback Loops from the Inception Deck pitches to the Value Proposition and the Business Model in their working context
 
 // end::EN[]
