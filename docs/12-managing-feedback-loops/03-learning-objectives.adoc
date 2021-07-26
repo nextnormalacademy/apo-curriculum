@@ -7,21 +7,21 @@
 
 ==== Kompetenzlevel 1
 
-- [[LO12-1-1]] Die Teilnehmer wissen, wie sie Experimente und Tests beschreiben können
-- [[LO12-1-2]] Die Teilnehmer kennen die fünf Kernelemente von Feedbackschleifen
+- [[LO12-1-1]] Die Teilnehmer:innen wissen, wie sie Experimente und Tests beschreiben können
+- [[LO12-1-2]] Die Teilnehmer:innen kennen die fünf Kernelemente von Feedbackschleifen
 
 ==== Kompetenzlevel 2
 
-- [[LO12-2-1]] Die Teilnehmer wissen, wie man zwischen Experimenten, Tests und Feedback-Schleifen unterscheiden kann
-- [[LO12-2-2]] Die Teilnehmer wissen, wie man zwischen Latenz und Kadenz in Feedbackschleifen unterscheidet
-- [[LO12-2-3]] Die Teilnehmer sind in der Lage, Experimente und Tests in ihrem Arbeitskontext zu definieren
-- [[LO12-2-4]] Die Teilnehmer sind in der Lage, zwischen Rauschen und wertvollem Feedback zu unterscheiden
+- [[LO12-2-1]] Die Teilnehmer:innen wissen, wie man zwischen Experimenten, Tests und Feedback-Schleifen unterscheiden kann
+- [[LO12-2-2]] Die Teilnehmer:innen wissen, wie man zwischen Latenz und Kadenz in Feedbackschleifen unterscheidet
+- [[LO12-2-3]] Die Teilnehmer:innen sind in der Lage, Experimente und Tests in ihrem Arbeitskontext zu definieren
+- [[LO12-2-4]] Die Teilnehmer:innen sind in der Lage, zwischen Rauschen und wertvollem Feedback zu unterscheiden
 
 ==== Kompetenzlevel 3
 
-- [[LO12-3-1]] Die Teilnehmer sind in der Lage, verschiedene Werkzeuge mit wertvollen Feedback-Schleifen in ihrem Arbeitskontext zu verbinden
-- [[LO12-3-2]] Die Teilnehmer sind in der Lage, Feedbackschleifen in ihrem Arbeitskontext zu beschreiben
-- [[LO12-3-3]] Die Teilnehmer sind in der Lage, Feedbackschleifen in ihrem Arbeitskontext anzuwenden
+- [[LO12-3-1]] Die Teilnehmer:innen sind in der Lage, verschiedene Werkzeuge mit wertvollen Feedback-Schleifen in ihrem Arbeitskontext zu verbinden
+- [[LO12-3-2]] Die Teilnehmer:innen sind in der Lage, Feedbackschleifen in ihrem Arbeitskontext zu beschreiben
+- [[LO12-3-3]] Die Teilnehmer:innen sind in der Lage, Feedbackschleifen in ihrem Arbeitskontext anzuwenden
 
 // end::DE[]
 
