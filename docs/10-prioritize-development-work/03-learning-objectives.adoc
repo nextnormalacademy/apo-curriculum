@@ -41,10 +41,10 @@
 
 ==== Competence Level 2
 
-- [[LO10-2-1]] Participants know about the connection between a product backlog and a story map
+- [[LO10-2-1]] Participants know about the connection between a product backlog and a Story Map
 - [[LO10-2-2]] Participants are able to describe the different types of backlog items that occur in their working context
 - [[LO10-2-3]] Participants are able to identify the leading indicators that a particular backlog item affects
-- [[LO10-2-4]] Participants are aware of the difference between a prioritised, an ordered and an estimated product backlog and the impact of these different types of product backlos in their working context
+- [[LO10-2-4]] Participants are aware of the difference between a prioritised, an ordered and an estimated product backlog and the impact of these different types of product backlogs in their working context
 - [[LO10-2-5]] Participants are aware of the difference between tasks and options
 
 ==== Competence Level 3
